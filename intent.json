@@ -18,7 +18,7 @@
         "responses" :["My home town is Warangal"]},
 
         {"tag" : "your name",
-        "patterns" : ["what is your name?", "may I know your name ?", "what is your good name?", "what people call you",
+        "patterns" : ["what is your name?","How do they call you", "may I know your name ?", "what is your good name?", "what people call you",
             "name please"],
         "responses" : ["You are texting to VERONICA version 2.0", "This is veronica version 2.0", "My name is Veronica",
             "You can call me Veronica","People call me Veronica, but you can call me senorita" ]},
