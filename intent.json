@@ -10,7 +10,7 @@
         "responses" : ["Bye ! Come back again", "Have a nice day", "See you later", "Nice to meet you"]},
         
         {"tag" : "thanks",
-        "patterns" :["Thanks", "Thank you so much", "That's heplful"],
+        "patterns" :["Thanks", "Thank you so much", "That's heplful","feeling lucky"],
         "responses" : ["Happy to help!", "Any time!", "My Pleasure"]},
 
         {"tag" : "location",
